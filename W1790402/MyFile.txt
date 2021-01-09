@@ -1,0 +1,5 @@
+rex  ,  active  ,  america  ,  56  ,  10  ,  4  ,  78  ,  659  ,  754  ,  70
+wazz  ,  active  ,  england  ,  67  ,  3  ,  10  ,  88  ,  86  ,  765  ,  80
+Aztecs  ,  Active  ,  America  ,  82  ,  4  ,  3  ,  72  ,  81  ,  288  ,  89
+Goodison  ,  Active  ,  England  ,  91  ,  2  ,  2  ,  82  ,  79  ,  435  ,  95
+Barcilona  ,  Not Active  ,  Sentyago  ,  98  ,  4  ,  2  ,  77  ,  87  ,  561  ,  104
